@@ -1,0 +1,8 @@
+SMSBOMBER HITREX
+pkg install git
+git clone https://github.com/im-hitrex/sms
+•cd sms
+•pip install requests
+•pip install threading
+•pip install threading
+•python sms.py
